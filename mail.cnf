@@ -1,0 +1,8 @@
+mail_from: x-robot@f15.sumy.ua;
+mail_name_from: watcher;
+mail_to: ruartt@ukr.net;
+mail_tema: Проба;
+smtp_server: mail.f15.sumy.ua;
+smtp_server_port: 587;
+smtp_avt_login: x-robot@f15.sumy.ua;
+smtp_avt_password: ;
